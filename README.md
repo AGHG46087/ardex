@@ -9,7 +9,3 @@ The repository will be intended to add new example items and README will be set 
 
 
 
-image updage t01
-image update t02
-image update t03
-image update t04
