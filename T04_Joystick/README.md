@@ -7,3 +7,5 @@ We have to use analog Arduino pins to read the data from the X/Y pins, and a dig
 
 Stable readings of the joystick there wil be a need to connect to a VCC witha  pull up resistor - Arduino digital pins can be used to accomodate 
 
+
+![Wiring Diagram](https://github.com/AGHG46087/ardex/blob/master/T04_Joystick/T04_Wiring.jpg "Wiring Diagram")
