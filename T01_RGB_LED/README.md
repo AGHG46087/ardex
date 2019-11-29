@@ -25,4 +25,5 @@ Making use of the Pulse Width Modulation to control the power - So `analogWrite(
 
 The rate of speed in the change is actually faster than the eye can detect. approximatly 1/500 fo a second.  since we cann not detect the on off,  it just appears to us as the brightness is changing.  
 
+![Wiring Diagram](https://github.com/AGHG46087/ardex/blob/master/T01_RGB_LED/T01_Wiring.jpg "Wiring Diagram")
 
