@@ -8,3 +8,6 @@ As the first button is pressed,  we will write to the digitalwrite pin to have t
 The second button,  when it low will shut off the LED.
 These types of switches may seem backward.  theyare normally HIGH and have a differential in voltage.  When pressed they are low to ground and therefore no differential. and we are going to use these low values as the triggers.
 
+
+![Wiring Diagram](https://github.com/AGHG46087/ardex/blob/master/T02_Digital_Inputs/T02_Wiring.jpg "Wiring Diagram")
+
