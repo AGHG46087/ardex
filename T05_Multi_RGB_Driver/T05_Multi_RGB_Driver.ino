@@ -1,5 +1,3 @@
-//www.elegoo.com
-//2016.12.9 
 
 int tDelay = 200;
 int latchPin = 11;      // (11) ST_CP [RCK] on 74HC595
