@@ -9,3 +9,7 @@ The clock pin needs to recieve 8 pulses.  on a high a `1` is poushed and of cour
 
 Anyway,  I am adding the schematic as well to see how this chip is connected and the wiring diagram.
 
+![Wiring Diagram](https://github.com/AGHG46087/ardex/blob/master/T05_Multi_RGB_Driver/T05_Wiring.jpg "Wiring Diagram")
+
+![Schematic Diagram](https://github.com/AGHG46087/ardex/blob/master/T05_Multi_RGB_Driver/T05_Schematic.jpg "Schematic Diagram")
+
