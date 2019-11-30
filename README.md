@@ -9,7 +9,5 @@ The repository will be intended to add new example items and README will be set 
 * T05: Multi RGB Driver - demonstration of multiple LEDS shift through the register and up and down.
 
 
-* Adding images to T05
-
 
 
