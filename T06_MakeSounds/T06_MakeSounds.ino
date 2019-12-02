@@ -1,5 +1,3 @@
-//www.elegoo.com
-//2016.12.08
 
 #define BUZZER 12 //the pin of the active buzzer
 
