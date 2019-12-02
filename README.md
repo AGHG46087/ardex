@@ -10,7 +10,5 @@ The repository will be intended to add new example items and README will be set 
 * T06: Multi RGB Driver - demonstration of generating sounds with an active buzzer.
 
 
-* todo add image to T06
-
 
 
