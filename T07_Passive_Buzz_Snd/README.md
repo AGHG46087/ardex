@@ -6,3 +6,4 @@ The primary principle of a passive buzzers utilzes a Pulse Wave Modulation (PWM)
 
 ## TODO:  Create another routine to generate a small song.  
 
+![Wiring Diagram](https://github.com/AGHG46087/ardex/blob/master/T07_Passive_Buzz_Snd/T07_Wiring.jpg "Wiring Diagram")
