@@ -10,5 +10,6 @@ The repository will be intended to add new example items and README will be set 
 * T06: Multi RGB Driver - demonstration of generating sounds with an active buzzer.
 * T07: Multi RGB Driver - demonstration of generating note sounds with an passive buzzer.
 
+* add new image for T07
 
 
