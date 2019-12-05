@@ -1,5 +1,3 @@
-//www.elegoo.com
-//2016.06.13
 
 int Led=13;//define LED port
 int buttonpin=3; //define switch port
