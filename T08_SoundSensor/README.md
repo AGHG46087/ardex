@@ -5,3 +5,4 @@ A Microphone is a tranducer, that whioch converts energy from one form to anothe
 
 The microphone carries to parralel pates as in a capacitor a capaticance priniciple is applied.  In this case one plate is fixed and the other is movable.  The strikes the movalble diaphran plate thereby changing the capacitance between plates and in turn current flow.
 
+![Wiring Diagram](https://github.com/AGHG46087/ardex/blob/master/T08_SoundSensor/T08_Wiring.jpg "Wiring Diagram")
