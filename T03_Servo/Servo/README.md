@@ -1,4 +1,4 @@
-= Servo Library for Arduino =
+# Servo Library for Arduino
 
 This library allows an Arduino board to control RC (hobby) servo motors.
 
