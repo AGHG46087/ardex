@@ -16,3 +16,8 @@ Here is the formula.
 
 distance = (high level time × velocity of sound (340m/s) /2
 
+The timing trigger only needs a 10µs pulse to being the ranging.  the moduile it self will send out 8 cycle bursts in the 40kHz range for the echos.  The range is then calcuculated using the time interval between the trigger and echo signal retrieved.  
+
+Formula: `Range = high level time * velocity (340M/S)/2`
+Metric (centimeters):  `µs / 58`
+US (inches): `µs / 148`
