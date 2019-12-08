@@ -1,31 +1,19 @@
-#######################################
-#	Syntax	Coloring	Map	SR04	lib
-#######################################
-
-#######################################
-#	Datatypes	(KEYWORD1)
-#######################################
-
-#######################################
 #	Methods	and	Functions	(KEYWORD2)
-####################################### 
-Distance	KEYWORD2	Distance
-DistanceAvg	KEYWORD2	Distance average
-Ping	KEYWORD2	only a ping signal
-getDistance	KEYWORD2	get distance after ping
-
-#######################################
-#	Instances	(KEYWORD2)
-#######################################
-SR04	KEYWORD2	ultrasonic library
-
-#######################################
-#	Constants	(LITERAL1)
-#######################################
+## SR04	KEYWORD2	ultrasonic library
 
 
-Ê¹ÓÃ·½·¨£º°Ñ½âÑ¹°üÖĞÎÄ¼ş£¬¸´ÖÆµ½X:\arduino-1.0\libraries\xxx ÏÂ¼´¿É
+| function | Description |
+| ----------- | ----------- |
+| Distance | calculate the distance |
+| DistanceAvg | Distance average |
+| Ping | only a ping signal |
+| getDistance | get distance after ping |
 
-¼¼ÊõÖ§³Ö£ºwww.arduino.cn
-Ó²¼şÔŞÖú£ºwww.openjumper.com
-ÌÔ±¦£ºi3water.taobao.com
+
+
+
+ä½¿ç”¨æ–¹æ³•ï¼šæŠŠè§£å‹åŒ…ä¸­æ–‡ä»¶ï¼Œå¤åˆ¶åˆ°X:\arduino-1.0\libraries\xxx ä¸‹å³å¯
+
+æŠ€æœ¯æ”¯æŒï¼šwww.arduino.cn
+ç¡¬ä»¶èµåŠ©ï¼šwww.openjumper.com
+æ·˜å®ï¼ši3water.taobao.com
