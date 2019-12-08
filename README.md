@@ -10,5 +10,5 @@ The repository will be intended to add new example items and README will be set 
 * T06: Make sounds - demonstration of generating sounds with an active buzzer.
 * T07: Passive Buzz Snd - demonstration of generating note sounds with an passive buzzer.
 * T08: Sound Sensor - demonstration of Sound detection for digital and analog
-
+* T09: Ultrasonic - Demonstration of a HC-SR04 untrasonc sensor to measure ddistance.
 
