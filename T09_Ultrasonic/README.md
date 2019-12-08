@@ -21,3 +21,6 @@ The timing trigger only needs a 10µs pulse to being the ranging.  the moduile i
 * Formula: `Range = high level time * velocity (340M/S)/2`
 * Metric (centimeters):  `µs / 58`
 * US (inches): `µs / 148`
+
+
+![Wiring Diagram](https://github.com/AGHG46087/ardex/blob/master/T09_Ultrasonic/T09_Wiring.jpg "Wiring Diagram")
