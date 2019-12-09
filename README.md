@@ -13,3 +13,6 @@ The repository will be intended to add new example items and README will be set 
 * T09: Ultrasonic - Demonstration of a HC-SR04 untrasonc sensor to measure ddistance.
 
 
+# todo:  Add wiring image to T10 README
+
+
