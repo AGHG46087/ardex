@@ -16,4 +16,3 @@ The repository will be intended to add new example items and README will be set 
 
 # todo:  Add wiring image to T10 README
 
-
