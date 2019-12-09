@@ -1,5 +1,4 @@
-//www.elegoo.com
-//2016.12.9
+
 #include <Wire.h>
 #include <DS3231.h>
 
