@@ -7,4 +7,3 @@ This DS3231 contains a time keeping chip and also has a integrated battery and p
 
 
 **TODO: DS3231 repo: Submit a PR to the Github repo and updates the sample as in CPP the warning about dangling pointers occur.**
-
