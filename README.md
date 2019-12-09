@@ -14,3 +14,6 @@ The repository will be intended to add new example items and README will be set 
 * T10: Ultrasonic - Demonstration of a Real Time Clock DS3231.
 
 
+# todo:  Add wiring image to T10 README
+
+
