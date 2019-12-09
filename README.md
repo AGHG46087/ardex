@@ -12,4 +12,3 @@ The repository will be intended to add new example items and README will be set 
 * T08: Sound Sensor - demonstration of Sound detection for digital and analog
 * T09: Ultrasonic - Demonstration of a HC-SR04 untrasonc sensor to measure ddistance.
 
-
