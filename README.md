@@ -12,3 +12,4 @@ The repository will be intended to add new example items and README will be set 
 * T08: Sound Sensor - demonstration of Sound detection for digital and analog
 * T09: Ultrasonic - Demonstration of a HC-SR04 untrasonc sensor to measure ddistance.
 * T10: Real Time clock - Demonstration of a Real Time Clock DS3231.
+* T11: Infrared Sensor - Demonstration of a Infrared sonsor and transmitter remote control.
