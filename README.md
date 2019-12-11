@@ -14,6 +14,7 @@ The repository will be intended to add new example items and README will be set 
 * T10: Real Time clock - Demonstration of a Real Time Clock DS3231.
 * T11: Infrared Sensor - Demonstration of a Infrared sonsor and transmitter remote control.
 * T12: DOT Matrix - Demonstration of a Dot Matrix with an integrated IC control chip.
+* T13: LCD Display - Demonstration of using a LCD 2 row 16 character LCD display.
 
 
 
