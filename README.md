@@ -15,6 +15,6 @@ The repository will be intended to add new example items and README will be set 
 * T11: Infrared Sensor - Demonstration of a Infrared sonsor and transmitter remote control.
 
 
-* TODO add the DOT Matrix
+* TODO add the wiring diagram to README
 * TODO add the LCD Display
 
