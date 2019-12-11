@@ -6,3 +6,5 @@ This display supports a backlight and 2 rows of up to 16 characters per row.  Th
 
 The module specifically used in this example is a LCD1602 module
 
+![Wiring Diagram](https://github.com/AGHG46087/ardex/blob/master/T13_LCD_Display/T13_Wiring.jpg "Wiring Diagram")
+
