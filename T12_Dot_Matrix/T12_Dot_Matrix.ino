@@ -1,5 +1,3 @@
-//www.elegoo.com
-//2016.12.9
 
 //We always have to include the library
 #include "LedControl.h"
