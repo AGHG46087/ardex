@@ -6,3 +6,5 @@ The example applied here will scroll text across a Dot matrix containing 64 LEDs
 The MAX7219 is a serial input/output common-cathode display. This disaply device is ideal for a bar-graph 7 segments.  
 
 
+![Wiring Diagram](https://github.com/AGHG46087/ardex/blob/master/T12_Dot_Matrix/T12_Wiring.jpg "Wiring Diagram")
+
