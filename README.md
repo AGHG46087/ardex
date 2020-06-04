@@ -16,5 +16,6 @@ The repository will be intended to add new example items and README will be set 
 * T12: DOT Matrix - Demonstration of a Dot Matrix with an integrated IC control chip.
 * T13: LCD Display - Demonstration of using a LCD 2 row 16 character LCD display.
 
+* NEOPIXELS:  Who does not love NEOPIXELS, this section has several different demos and examples.  Some sound reactive and others just for visual fun.  There are linear strips as well as matrix examples.
 
 
